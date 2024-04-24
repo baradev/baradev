@@ -2,6 +2,8 @@
 
 Hello there! I'm Barbora, a software developer with a passion for frontend development, design, and the AWS cloud.
 
+---
+
 ## About Me
 I enjoy working with Next.js and have experience with TypeScript, React, Tailwind CSS, Node.js, and more. I'm particularly passionate about the AWS Cloud and love experimenting with Amazon Connect. I'm proud to hold an AWS Solutions Architect Certification.
 
