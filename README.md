@@ -1,4 +1,4 @@
-# Kia Ora!
+## Kia Ora!
 
 Hello there! I'm Barbora, a software developer with a passion for frontend development, design, and the AWS cloud.
 
