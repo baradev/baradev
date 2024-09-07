@@ -4,7 +4,7 @@ I'm **[Barbora Klusackova](https://barbora-portfolio.vercel.app/)**,
 
 a Software Developer @[Volition](https://www.volition.org.nz/).
 
-I'm also an AWS enthusiast and community builder, and I co-organize the [Auckland AWS Tools & Programming](https://www.meetup.com/auckland-aws-tools-meetup/?eventOrigin=home_groups_you_organize).
+I'm also an AWS enthusiast and community builder, and I co-organize the [Auckland AWS Tools & Programming Meetup](https://www.meetup.com/auckland-aws-tools-meetup/?eventOrigin=home_groups_you_organize).
 <br><br>
 ### Side Projects
 - [Good First Issue](https://github.com/baradev/gfi) - GFI is an app designed to provide junior developers with practical experience in software development.
