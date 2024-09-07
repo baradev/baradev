@@ -1,14 +1,19 @@
-### Kia Ora!
+### 👋 Hi!
 
-I'm Barbora, a software developer with a passion for frontend development, design, and the AWS cloud ☁️.
+I'm **[Barbora Klusackova](https://barbora-portfolio.vercel.app/)**,
 
-I enjoy working with Next.js and have experience with TypeScript, React, Tailwind CSS, Node.js, and more. I'm particularly passionate about the AWS Cloud and love experimenting with Amazon Connect. I'm proud to hold an AWS Solutions Architect Certification.
+a Software Developer @[Volition](https://www.volition.org.nz/).
 
-### Projects
-During the last year, I've worked on a range of projects, many of which are open-source. If any of these projects interest you, please feel free to take a look at the code and suggest any improvements or enhancements you think could be made. Collaborating with others is a valuable way to learn and grow, and I'm always open to new ideas and feedback.
+I'm also an AWS enthusiast and community builder, and I co-organize the [Auckland AWS Tools & Programming](https://www.meetup.com/auckland-aws-tools-meetup/?eventOrigin=home_groups_you_organize).
+<br><br>
+### Side Projects
+- [Good First Issue](https://github.com/baradev/gfi) - GFI is an app designed to provide junior developers with practical experience in software development.
+- [Human Skills Facilitator](https://devacademy.co.nz/) - Teaching future developers essential soft skills—such as giving and receiving feedback, embracing a growth mindset, active listening, and more—that are crucial for thriving in the tech industry.
 
-### Current Focus
-Currently, I'm working on a platform for Junior Developers where they will be able to gain more practical experience. The working name for now is "Good First Issue".
+*During the last year, I've worked on a range of projects, many of which are open-source. If any of these projects interest you, please feel free to take a look at the code and suggest any improvements or enhancements you think could be made. Collaborating with others is a valuable way to learn and grow, and I'm always open to new ideas and feedback.*
+<br>
 
-Feel free to reach out if you have any questions or if you're interested in collaborating on any projects!
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,aws,tailwind,figma,sqlite,mongodb,dynamodb,postgres&perline=5)](https://skillicons.dev)
+
 
