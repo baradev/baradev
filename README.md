@@ -1,5 +1,5 @@
 ### 👋
 
-*   Software Developer
-*   Developing Sheet-Gen
-*   AWS User Group Lead
+■ Software Developer <br/>
+■ Currently Developing **Sheet-Gen** <br/>
+■ AWS User Group Lead 
